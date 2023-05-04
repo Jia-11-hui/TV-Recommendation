@@ -1,0 +1,46 @@
+body {
+    background-color: #e6dbaf;
+    text-align: center;
+    color: #6b5c21;
+    padding: 100px;
+    border: 10px ridge gold;
+  
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+button {
+    border: 5px solid #5b4e1c;
+    
+    background-color: #cfb962;
+   
+    color: #6b5c21;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+img{
+    border: 5px solid yellow;
+    width:160px;
+    height:200px;
+}
+
+
+.pop-icon {
+    width: 200px;
+    border:none;
+}
